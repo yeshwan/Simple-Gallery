@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Gallery</string>
+    <string name="app_launcher_name">Galleria</string>
+    <string name="share_via">Condividi via</string>
+    <string name="no_permissions">Non c\'è molto da fare in una galleria senza l\'accesso all\'archiviazione</string>
+    <string name="edit">Modifica</string>
+    <string name="open_camera">Apri fotocamera</string>
+    <string name="open_with">Apri con</string>
+    <string name="no_app_found">Nessun app valida trovata</string>
+    <string name="hide_folder">Nascondi cartella</string>
+    <string name="unhide_folder">Mostra cartella nascosta</string>
+    <string name="hidden">(nascosta)</string>
+    <string name="save_as">Salva come </string>
+    <string name="file_saved">File salvato correttamente</string>
+    <string name="pin_folder">Pin folder</string>
+    <string name="unpin_folder">Unpin folder</string>
+    <string name="show_all">Show all folders content</string>
+    <string name="all_folders">All media</string>
+    <string name="folder_view">Switch to folder view</string>
+    <string name="other_folder">Other folder</string>
+    <string name="show_on_map">Show on map</string>
+    <string name="unknown_location">Unknown location</string>
+    <string name="no_map_application">No application with maps has been found</string>
+
+    <!-- Resizing -->
+    <string name="resize">Resize</string>
+    <string name="resize_and_save">Resize selection and save</string>
+    <string name="width">Width</string>
+    <string name="height">Height</string>
+    <string name="keep_aspect_ratio">Keep aspect ratio</string>
+    <string name="invalid_values">Please enter a valid resolution</string>
+
+    <!-- Renaming -->
+    <string name="rename_file">Rinomina file</string>
+    <string name="rename_folder">Rinomina cartella</string>
+    <string name="rename_file_error">Impossibile rinominare il file</string>
+    <string name="rename_folder_error">Impossibile rinominare la cartella</string>
+    <string name="rename_folder_empty">Il nome della cartella non deve essere vuoto</string>
+    <string name="rename_folder_exists">Esiste già una cartella con questo nome</string>
+    <string name="rename_folder_root">Non è possibile rinominare la cartella principale</string>
+    <string name="rename_folder_ok">Cartella rinominata correttamente</string>
+    <string name="renaming_folder">Rinominazione cartella</string>
+    <string name="filename_cannot_be_empty">Il nome del file non deve essere vuoto</string>
+    <string name="filename_invalid_characters">Il nome contiene caratteri non validi</string>
+    <string name="extension">Estensione</string>
+    <string name="extension_cannot_be_empty">Extension cannot be empty</string>
+
+    <!-- Editor -->
+    <string name="editor">Editor</string>
+    <string name="save">Salva</string>
+    <string name="rotate">Ruota</string>
+    <string name="path">Percorso</string>
+    <string name="invalid_image_path">Percorso immagine non valido</string>
+    <string name="image_editing_failed">Modifica immagine non riuscita</string>
+    <string name="edit_image_with">Modifica immagine con:</string>
+    <string name="no_editor_found">Editor immagine non trovato</string>
+    <string name="unknown_file_location">Posizione file sconosciuta</string>
+    <string name="error_saving_file">Impossibile sovrascrivere il file sorgente</string>
+
+    <!-- Set wallpaper -->
+    <string name="simple_wallpaper">Sfondo Semplice</string>
+    <string name="set_as_wallpaper">Imposta come sfondo</string>
+    <string name="set_as_wallpaper_failed">Impostazione sfondo non riuscito</string>
+    <string name="set_as_wallpaper_with">Imposta come sfondo con:</string>
+    <string name="no_wallpaper_setter_found">Non sono disponibili app compatibili</string>
+    <string name="setting_wallpaper">Impostazione sfondo&#8230;</string>
+    <string name="wallpaper_set_successfully">Sfondo impostato correttamente</string>
+
+    <!-- Settings -->
+    <string name="dark_theme">Tema scuro</string>
+    <string name="same_sorting">Stesso ordinamento per file e cartelle</string>
+    <string name="show_hidden_folders">Mostra cartelle nascoste</string>
+    <string name="autoplay_videos">Riproduci video automaticamente</string>
+    <string name="toggle_filename">Visibilità nome del file</string>
+    <string name="show_media">Show media</string>
+    <string name="images">Images only</string>
+    <string name="videos">Videos only</string>
+    <string name="images_and_videos">Images and videos</string>
+    <string name="loop_videos">Loop videos</string>
+
+    <!-- Release notes -->
+    <string name="release_66">Allow picking colors by hex codes</string>
+    <string name="release_65">Allow showing the photos and videos on a map, if there are available map coordinates</string>
+    <string name="release_62">Show some additional Exif data at photo properties</string>
+    <string name="release_58">
+        Allow zooming pngs and gifs\n
+        Allow creating new folders at Copy/Move or Save as dialog destinations
+    </string>
+    <string name="release_54">Added an option to loop videos automatically</string>
+    <string name="release_52">
+        Added more color customization options\n
+        Your settings have been cleared, please reset them</string>
+    <string name="release_51">Allow changing the column count with pinch gestures</string>
+    <string name="release_50">Added an option to display images or videos only</string>
+    <string name="release_49">Added a Select all button at selecting media and folders</string>
+    <string name="release_47">
+        Added an image resizer to the editor\n
+        Allow displaying images and videos from all folders together
+    </string>
+    <string name="release_46">Allow pinning folders at the top</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3645714168177699/6417361170</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_long_description">
+        A simple tool usable for viewing photos and videos. Items can be sorted by date, size, name both ascending or descending, photos can be zoomed in. Media files are shown in multiple columns depending on the size of the display, you can change the column count by pinch gestures. They can be renamed, shared, deleted, copied, moved. Images can also be cropped, rotated or set as Wallpaper directly from the app.
+
+
+        The Gallery is also offered for third party usage for previewing images / videos, adding attachments at email clients etc. It\'s perfect for everyday usage.
+
+        This app is just one piece of a bigger series of apps.
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

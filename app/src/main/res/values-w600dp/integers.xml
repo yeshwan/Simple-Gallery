@@ -1,0 +1,4 @@
+<resources>
+    <integer name="directory_columns">4</integer>
+    <integer name="media_columns">7</integer>
+</resources>

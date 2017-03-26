@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\7c00696b0377b346d02ae1680be3372e7dcfc649\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_183aa02d803e49073253f85b56b05f0edc610f1b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\50002528\.android\build-cache\74cb9fe2921a11d3da575efb5fabdd5cdb9a6d80\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b03990940a63f740c7303793901d362560f5ba2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\59c3501a381050ccebe3b0398f649f1e075b212b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_6d6c8ef1412e874cad4d977cd7f28ebc28ce8e86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\640164443a5fa31595b54cd699b5044383111a1a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1a32a39a9fcae3d354a312cdb78c18159fa702e6">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_2e93d5a17bdc04fef6d17d673f075e1460010b02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\glide-3.7.0_74ec5f373f503485851e3db9a81ec84e409c934a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\0d94240e5ecc44975b26e93a35aeb62da0df3a9a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_b124c04be538c19471e85a1c082ff1c43cc39eb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\bc65d0dd5ede0bfee63bcb225a464df13d6529de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65b7fdff12372b4aa111b16a3e3da16ffb62633">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_2bf5993b58a20e7409c4acb0d9a8e34cae9b3c85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-io\1.3.2\b6dde38349ba9bb5e6ea6320531eae969985dae5\commons-io-1.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6dde38349ba9bb5e6ea6320531eae969985dae5">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\commons-io-1.3.2_fc70bb9f379234adf29eb378c8f90b653eeeb69c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\50002528\.android\build-cache\5bf25c863d89d7ce1fe5c7bcdd5e38673383e7e8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8eb98d17bbaa745f3469e9cbec68c5926c78aaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.0.3\20738122b53399036c321eeb84687367757d622a\kotlin-stdlib-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="20738122b53399036c321eeb84687367757d622a">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-1.0.3_515e2de894314c576d2066f52998195659d7cdca.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\50002528\.android\build-cache\89a9d9da115093508147728ebb351ed0122c29b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ddbabd0ff8429421b6c81cd0137a645f46e0cfe9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\a2f2e315c815eeb7007bd3802a987b2b26de83ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_c382f128f78cfffee2ef688aa0eaccfe00cdf216.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\50002528\.android\build-cache\63ce737bdd9c6ce0db1dc7b9ab10bd15d32991c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01f63e66f85ebc1643a55e6779a6c999016b2907\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\4c9a04bd487e714f224162bcaff305cf60c5bbbc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_189c3a6bce7701f64c80c614eb7fae7e3317c9b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\d66629af61f0ee4d41d9e94a5c2ac68fe5307cd2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a6b765967c8091ebb45f2c02972a2fa9cba5dd87">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_0f050d3d2acd35cb3b22ae80947e6d4a3486bb13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\cb42bc2636fdd6f8f98f66320daa80dd30eabaf9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8a90606ee73178bb9b1a336dc36ae3ec25ad33ea">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_8202637d0508375afae542410a81785a84ac7eda.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\50002528\.android\build-cache\4c9a04bd487e714f224162bcaff305cf60c5bbbc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_189c3a6bce7701f64c80c614eb7fae7e3317c9b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\dac188f9661a178fc2e0e8c1410769daa763c114\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_80683b8843535f759860aa4577b35197eaa443d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\17a09ce74b25673d50de5b8861762bf86546c73d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_9fde12587abe4b5f5d60b9bb88ee8b7e52c19a77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\46aee739ab8cf6f3062719b6e7246f86f271664c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_0304054510ee5d39e203c1434300456176f1ae94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\c310d8d286e78cc3bfde028c04c7ff80b2f4ef65\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_407e5ba8b6c9846f6738a532e6845dac802d23fc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\50002528\.android\build-cache\77010aceecae45fb8b926103d27761ede3de0ca4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ab21edb6a6f5bf58aebd06e0c2bf4b314c8695a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\0882912f2ba781fb433094a82c768d60aac46fba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_5a237bf8f32d2766041cdaffb2f1dd9ed922927c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-runtime\1.0.3\10f40d016700cf4287e49fa1d51c2a8507e9b946\kotlin-runtime-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="10f40d016700cf4287e49fa1d51c2a8507e9b946">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\kotlin-runtime-1.0.3_938185ccac741e0fa1b959f46d884fd4f49db925.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\50002528\.android\build-cache\bab29fa5f74335289baf838bc5ee9a8d395ad952\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ce5455cc28f16f3ab2c36b06389730ffea402ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\d1db5f8572991faf1ff5fbcb70d087905e869e56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_20f89aff34215b302723a0561986c5ebc56c7ffb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\1b74970a80d911551760aae920c6d1cc2767bdb0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8060ef51980f2baaebf2c4193d2d01aacd11f032">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_9320fec9055506e653a9bb55eb72212c26a4830d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\490c3693019400cfd32f576bbaf65e427b34eac1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_c41a2177b2cdc01fb660b4c898145d261cc48962.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\74cb9fe2921a11d3da575efb5fabdd5cdb9a6d80\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_6b03990940a63f740c7303793901d362560f5ba2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_ce57798f6582d6e258021db74a2f4d18dec2189b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\gson-2.8.0_e04e080f9dfb017572db51453350df053c0b22e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\5bf25c863d89d7ce1fe5c7bcdd5e38673383e7e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_f8eb98d17bbaa745f3469e9cbec68c5926c78aaa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dfcb21b4733fcd88357f15f5eb836f0fc9e6fabf">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d5a707af4de1b023cfb6a8064322f08ea617527c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\63ce737bdd9c6ce0db1dc7b9ab10bd15d32991c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_01f63e66f85ebc1643a55e6779a6c999016b2907.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\89a9d9da115093508147728ebb351ed0122c29b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_ddbabd0ff8429421b6c81cd0137a645f46e0cfe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.3.2\90a3822c38ec8c996e84c16a3477ef632cbc87a3\commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\commons-lang3-3.3.2_b55e97979d5ec78bbbd6cbe86a25a2dc4c875c0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\c9b02afd7e58ec3ac06b758bf8f2299a4e5302d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_028ba2c56883bbd5d3db196a5a334c22e79efa8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\148859c69cbf0607f7e54e51bd5508fa80d0d707\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_ba17e6d6f389b8e3d97ac6038c0eb21b917dba9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\bab29fa5f74335289baf838bc5ee9a8d395ad952\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_2ce5455cc28f16f3ab2c36b06389730ffea402ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\75b45e527053deb65df3616cb548d818f5b70951\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_6c425d985bb5d2df140637c0632bc4a512926fa0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4b0acb43523b8acd21eacd251315b313ba100070\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\50002528\.android\build-cache\c9b02afd7e58ec3ac06b758bf8f2299a4e5302d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_028ba2c56883bbd5d3db196a5a334c22e79efa8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\9e9b5a387ca1e5f6784619f287ca802f72cdfe91\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae3fb5e70b67cf542338288b0d68c6c367da7367">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_87c6e8a9406e4720664cf92b0faa35de03162728.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\01a2e6960827a20e626c099acb74fbc5791a24c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="85d59eec03f6d97b307e64c7b6b9b00e8482b1b9">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_8052071b1f6ed16e2b4061f621ab821111f83f2d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\50002528\.android\build-cache\dac188f9661a178fc2e0e8c1410769daa763c114\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80683b8843535f759860aa4577b35197eaa443d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\236ef007e6e60cc132ec9fe49e919de913be0f45\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_4ba6fe07dccc46dc20519ca49f109a11b40e805f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\50002528\.android\build-cache\46aee739ab8cf6f3062719b6e7246f86f271664c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0304054510ee5d39e203c1434300456176f1ae94\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\77010aceecae45fb8b926103d27761ede3de0ca4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_9ab21edb6a6f5bf58aebd06e0c2bf4b314c8695a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\50002528\.android\build-cache\0882912f2ba781fb433094a82c768d60aac46fba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a237bf8f32d2766041cdaffb2f1dd9ed922927c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\50002528\.android\build-cache\c31d80a0d9b43120348c60ea89e7e3b36a8be8f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\Desktop data\Mobile\Simple-Gallery-master\Simple-Gallery-master\app\build\intermediates\pre-dexed\debug\classes_71fa849e2ad88f175e8d0c191957d0783913f120.jar" />
+    </item>
+
+</items>

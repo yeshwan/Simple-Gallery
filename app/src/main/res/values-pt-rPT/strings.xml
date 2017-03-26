@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Gallery</string>
+    <string name="app_launcher_name">Galeria</string>
+    <string name="share_via">Partilhar via</string>
+    <string name="no_permissions">É necessário o acesso ao armazenamento para a galeria ter utilidade</string>
+    <string name="edit">Editar</string>
+    <string name="open_camera">Abrir câmara</string>
+    <string name="open_with">Abrir com</string>
+    <string name="no_app_found">Nenhuma aplicação encontrada</string>
+    <string name="hide_folder">Ocultar pasta</string>
+    <string name="unhide_folder">Mostrar pasta</string>
+    <string name="hidden">(oculta)</string>
+    <string name="save_as">Guardar como</string>
+    <string name="file_saved">Ficheiro guardado com sucesso</string>
+    <string name="pin_folder">Fixar pasta</string>
+    <string name="unpin_folder">Desafixar pasta</string>
+    <string name="show_all">Mostrar conteúdo de todas as pastas</string>
+    <string name="all_folders">Todas as pastas</string>
+    <string name="folder_view">Alternar para a vista de pastas</string>
+    <string name="other_folder">Outra pasta</string>
+    <string name="show_on_map">Mostrar no mapa</string>
+    <string name="unknown_location">Localização desconhecida</string>
+    <string name="no_map_application">Não existe uma aplicação adequada</string>
+
+    <!-- Resizing -->
+    <string name="resize">Redimensionar</string>
+    <string name="resize_and_save">Redimensionar seleção e guardar</string>
+    <string name="width">Largura</string>
+    <string name="height">Altura</string>
+    <string name="keep_aspect_ratio">Manter rácio de tamanho</string>
+    <string name="invalid_values">Digite uma resolução válida</string>
+
+    <!-- Renaming -->
+    <string name="rename_file">Renomear ficheiro</string>
+    <string name="rename_folder">Renomear pasta</string>
+    <string name="rename_file_error">Não foi possível renomear o ficheiro</string>
+    <string name="rename_folder_error">Não foi possível renomear a pasta</string>
+    <string name="rename_folder_empty">O nome da pasta não pode estar vazio</string>
+    <string name="rename_folder_exists">Já existe uma pasta com este nome</string>
+    <string name="rename_folder_root">Não pode renomear a pasta raiz de um armazenamento</string>
+    <string name="rename_folder_ok">A pasta foi renomeada com sucesso</string>
+    <string name="renaming_folder">A renomear pasta</string>
+    <string name="filename_cannot_be_empty">O nome do ficheiro não pode estar vazio</string>
+    <string name="filename_invalid_characters">O nome do ficheiro contém caracteres inválidos</string>
+    <string name="extension">Extensão</string>
+    <string name="extension_cannot_be_empty">A extensão não pode estar vazia</string>
+
+    <!-- Editor -->
+    <string name="editor">Editor</string>
+    <string name="save">Guardar</string>
+    <string name="rotate">Rodar</string>
+    <string name="path">Caminho</string>
+    <string name="invalid_image_path">Caminho inválido</string>
+    <string name="image_editing_failed">Falha na edição da imagem</string>
+    <string name="edit_image_with">Editar imagem com:</string>
+    <string name="no_editor_found">Editor não encontrado</string>
+    <string name="unknown_file_location">Localização desconhecida</string>
+    <string name="error_saving_file">Não foi possível substituir o ficheiro original</string>
+
+    <!-- Set wallpaper -->
+    <string name="simple_wallpaper">Simple Wallpaper</string>
+    <string name="set_as_wallpaper">Definir como fundo do ecrã</string>
+    <string name="set_as_wallpaper_failed">Falha ao definir como fundo de ecrã</string>
+    <string name="set_as_wallpaper_with">Definir como fundo com:</string>
+    <string name="no_wallpaper_setter_found">Aplicação não encontrada</string>
+    <string name="setting_wallpaper">A definir como fundo de ecrã&#8230;</string>
+    <string name="wallpaper_set_successfully">Fundo definido com sucesso</string>
+
+    <!-- Settings -->
+    <string name="dark_theme">Tema escuro</string>
+    <string name="same_sorting">Mesma ordenação para ficheiros e pastas</string>
+    <string name="show_hidden_folders">Mostrar pastas ocultas</string>
+    <string name="autoplay_videos">Reproduzir vídeos automaticamente</string>
+    <string name="toggle_filename">Mostrar/ocultar nome do ficheiro</string>
+    <string name="show_media">Mostrar multimédia</string>
+    <string name="images">Apenas imagens</string>
+    <string name="videos">Apenas vídeos</string>
+    <string name="images_and_videos">Imagens e vídeos</string>
+    <string name="loop_videos">Vídeos em ciclo</string>
+
+    <!-- Release notes -->
+    <string name="release_66">Allow picking colors by hex codes</string>
+    <string name="release_65">Allow showing the photos and videos on a map, if there are available map coordinates</string>
+    <string name="release_62">Show some additional Exif data at photo properties</string>
+    <string name="release_58">
+        Allow zooming pngs and gifs\n
+        Allow creating new folders at Copy/Move or Save as dialog destinations
+    </string>
+    <string name="release_54">Added an option to loop videos automatically</string>
+    <string name="release_52">
+        Added more color customization options\n
+        Your settings have been cleared, please reset them</string>
+    <string name="release_51">Allow changing the column count with pinch gestures</string>
+    <string name="release_50">Added an option to display images or videos only</string>
+    <string name="release_49">Added a Select all button at selecting media and folders</string>
+    <string name="release_47">
+        Added an image resizer to the editor\n
+        Allow displaying images and videos from all folders together
+    </string>
+    <string name="release_46">Allow pinning folders at the top</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3645714168177699/6417361170</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_long_description">
+        Uma ferramenta simples para ver fotos e vídeos. Pode organizar os itens por data, tamanho, nome e ampliar as fotografias. Os ficheiros multimédia são mostrados em colunas e a sua exibição está dependente do tamanho do ecrã, podendo alterar o número de colunas através de gestos. Pode renomear, partilhar, apagar, copiar e mover as fotografias. Também pode recortar, rodar e definir as imagens como fundo do ecrã a partir da aplicação.
+
+
+        Também pode ser utilizada para pré-visualizar imagens e vídeos ou para adicionar como anexos ao e-mail, entre outros. É perfeita para a utilização diária.
+
+        Disponibiliza um tema escuro e é totalmente \'open source\'.
+
+        Esta aplicação é apenas parte de um conjunto mais vasto de aplicações.
+    </string>
+
+    <!--
+        Não encontrou todas as cadeias a traduzir? Existem mais algumas em:
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "127148587586",
+    "firebase_url": "https://gallery-b8495.firebaseio.com",
+    "project_id": "gallery-b8495",
+    "storage_bucket": "gallery-b8495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127148587586:android:4125dec7c7f094ab",
+        "android_client_info": {
+          "package_name": "com.yeshtools.gallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127148587586-qdiplnepkmgp3afg2ej7uns8s61c3ehr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Ti_Vza_R7eRhL8oYPPsmxIYxstSd4rQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

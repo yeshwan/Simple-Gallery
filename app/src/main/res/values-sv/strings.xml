@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Gallery</string>
+    <string name="app_launcher_name">Gallery</string>
+    <string name="share_via">Dela via</string>
+    <string name="no_permissions">Inte mycket att göra i ett galleri om jag inte kommer åt lagringsutrymmet</string>
+    <string name="edit">Redigera</string>
+    <string name="open_camera">Starta kameran</string>
+    <string name="open_with">Öppna med</string>
+    <string name="no_app_found">Hittade ingen giltig app</string>
+    <string name="hide_folder">Dölj mapp</string>
+    <string name="unhide_folder">Visa mapp</string>
+    <string name="hidden">(dold)</string>
+    <string name="save_as">Spara som</string>
+    <string name="file_saved">Filen sparad</string>
+    <string name="pin_folder">Fäst mappen</string>
+    <string name="unpin_folder">Släpp mappen</string>
+    <string name="show_all">Visa alla mappars innehåll</string>
+    <string name="all_folders">Alla mappar</string>
+    <string name="folder_view">Byt till mappvy</string>
+    <string name="other_folder">Andra mappar</string>
+    <string name="show_on_map">Show on map</string>
+    <string name="unknown_location">Unknown location</string>
+    <string name="no_map_application">No application with maps has been found</string>
+
+    <!-- Resizing -->
+    <string name="resize">Ändra storlek</string>
+    <string name="resize_and_save">Ändra storlek och spara</string>
+    <string name="width">Bredd</string>
+    <string name="height">Höjd</string>
+    <string name="keep_aspect_ratio">Behåll bildförhållande</string>
+    <string name="invalid_values">Ange en giltig bildupplösning</string>
+
+    <!-- Renaming -->
+    <string name="rename_file">Döp om fil</string>
+    <string name="rename_folder">Döp om mapp</string>
+    <string name="rename_file_error">Det gick inte att döpa om filen</string>
+    <string name="rename_folder_error">Det gick inte att döpa om mappen</string>
+    <string name="rename_folder_empty">Du måste ange ett mappnamn</string>
+    <string name="rename_folder_exists">En mapp med det namnet finns redan</string>
+    <string name="rename_folder_root">Det går inte att döpa om rotmappen på lagringsutrymmet</string>
+    <string name="rename_folder_ok">Mappen döptes om</string>
+    <string name="renaming_folder">Döper om mappen</string>
+    <string name="filename_cannot_be_empty">Du måste ange ett filnamn</string>
+    <string name="filename_invalid_characters">Filnamnet innehåller ogiltiga tecken</string>
+    <string name="extension">Filändelse</string>
+    <string name="extension_cannot_be_empty">Filändelsen får inte vara tom</string>
+
+    <!-- Editor -->
+    <string name="editor">Redigera</string>
+    <string name="save">Spara</string>
+    <string name="rotate">Rotera</string>
+    <string name="path">Sökväg</string>
+    <string name="invalid_image_path">Ogiltig bildsökväg</string>
+    <string name="image_editing_failed">Image editing failed</string>
+    <string name="edit_image_with">Redigera bilden med:</string>
+    <string name="no_editor_found">Hittade ingen bildredigerare</string>
+    <string name="unknown_file_location">Okänd filplats</string>
+    <string name="error_saving_file">Det gick inte att skriva över källfilen</string>
+
+    <!-- Set wallpaper -->
+    <string name="simple_wallpaper">Bakgrundsbild</string>
+    <string name="set_as_wallpaper">Ange som bakgrundsbild</string>
+    <string name="set_as_wallpaper_failed">Det gick inte att byta bakgrundsbild</string>
+    <string name="set_as_wallpaper_with">Ange som bakgrundsbild med:</string>
+    <string name="no_wallpaper_setter_found">Hittade ingen app som klarar av detta</string>
+    <string name="setting_wallpaper">Inställningar för bakgrundsbild&#8230;</string>
+    <string name="wallpaper_set_successfully">Bakgrundsbilden är ändrad</string>
+
+    <!-- Settings -->
+    <string name="dark_theme">Mörkt tema</string>
+    <string name="same_sorting">Samma sortering för filer som för mappar</string>
+    <string name="show_hidden_folders">Visa dolda mappar</string>
+    <string name="autoplay_videos">Spela upp videos automatiskt</string>
+    <string name="toggle_filename">Visa/dölj filnamnen</string>
+    <string name="show_media">Visa media</string>
+    <string name="images">Endast bilder</string>
+    <string name="videos">Endast videos</string>
+    <string name="images_and_videos">Bilder och videos</string>
+    <string name="loop_videos">Återspela videos</string>
+
+    <!-- Release notes -->
+    <string name="release_66">Allow picking colors by hex codes</string>
+    <string name="release_65">Allow showing the photos and videos on a map, if there are available map coordinates</string>
+    <string name="release_62">Show some additional Exif data at photo properties</string>
+    <string name="release_58">
+        Allow zooming pngs and gifs\n
+        Allow creating new folders at Copy/Move or Save as dialog destinations
+    </string>
+    <string name="release_54">Added an option to loop videos automatically</string>
+    <string name="release_52">
+        Added more color customization options\n
+        Your settings have been cleared, please reset them</string>
+    <string name="release_51">Allow changing the column count with pinch gestures</string>
+    <string name="release_50">Added an option to display images or videos only</string>
+    <string name="release_49">Added a Select all button at selecting media and folders</string>
+    <string name="release_47">
+        Added an image resizer to the editor\n
+        Allow displaying images and videos from all folders together
+    </string>
+    <string name="release_46">Allow pinning folders at the top</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3645714168177699/6417361170</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
